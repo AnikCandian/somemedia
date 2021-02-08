@@ -84,3 +84,7 @@ form {
 .blogpost button {
 	margin-left: 15px;
 }
+
+button {
+    border-radius: 10px;
+}
