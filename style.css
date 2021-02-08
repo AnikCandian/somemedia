@@ -1,0 +1,86 @@
+html {
+	overflow-x: hidden;
+}
+
+header {
+	background-color: #3392ff; 
+	color: white;
+	padding: 10px;
+}
+
+body {
+	text-align: left;
+}
+
+img {
+	float: left;
+	margin: 0px;
+}
+
+.action-buttons {
+	float: right;
+	margin: 0px;
+}
+
+name {
+	font-size: 30px;
+}
+
+blog {
+	float: left;
+	width: 50%;
+}
+
+posts {
+	float: right;
+	width: 50%;
+}
+
+username {
+	color: grey;
+	font-size: 15px;
+}
+
+section {
+	font-size: 30px;
+}
+
+
+postName {
+	font-size: 20px;
+}
+
+
+status {
+	font-size: 20px;
+}
+
+p {
+	font-size: 15px;
+}
+
+.blogpost, .postpost {
+	border-radius: 5px;
+	border: 1px solid;
+	margin: 5px;
+	padding: 5px;
+}
+
+.postcontent {
+	margin-left: 15px;
+}
+
+.commentsection {
+	border-radius: 5px;
+	border: 1px solid;
+	margin: 2.5px;
+	padding: 2.5px
+}
+
+form {
+	margin-left: 15px;
+}
+
+.blogpost button {
+	margin-left: 15px;
+}
